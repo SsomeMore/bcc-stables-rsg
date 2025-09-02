@@ -71,8 +71,8 @@ Gain XP by riding, feeding, watering, and brushing your horse. As XP is gained, 
 
 ## Dependencies
 
-- [rsg-core]([https://github.com/VORPCORE/vorp-core-lua](https://github.com/Rexshack-RedM/rsg-core))
-- [rsg-inventory]([https://github.com/VORPCORE/vorp_inventory-lua](https://github.com/Rexshack-RedM/rsg-inventory))
+- [rsg-core](https://github.com/VORPCORE/vorp-core-lua](https://github.com/Rexshack-RedM/rsg-core)
+- [rsg-inventory](https://github.com/VORPCORE/vorp_inventory-lua](https://github.com/Rexshack-RedM/rsg-inventory)
 - [bcc-utils](https://github.com/BryceCanyonCounty/bcc-utils)
 - [feather-menu](https://github.com/FeatherFramework/feather-menu/releases)
 
